@@ -1,10 +1,10 @@
 {
-    "name": "syphera",
-    "productname": "Syphera Launcher",
-    "version": "1.0.0",
-    "description": "Launcher de syphera",
+    "name": "Redstonia",
+    "productname": "Redstonia Launcher",
+    "version": "1.0.1",
+    "description": "Launcher de Redstonia",
     "main": "src/app.js",
-    "author": "Boulldogo/Riptiaz/Vexato",
+    "author": "Dracky07/Boulldogo/Riptiaz/Vexato",
     "env": "panel",
     "settings": "https://launcher.redstonia.com",
     "scripts": {
@@ -37,6 +37,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Redstonia/Syphera-Launcher.git"
+        "url": "git+https://github.com/Redstonia/Redstonia-Launcher.git"
     }
 }
